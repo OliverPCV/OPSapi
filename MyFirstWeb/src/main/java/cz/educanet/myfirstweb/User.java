@@ -20,9 +20,5 @@ public class User {
         return this.username = newUsername;
 
     }
-    public String changePassword(String newPassword){
-        return this.username = newPassword;
-
-    }
 
 }
